@@ -3,16 +3,12 @@
     public static void Main()
     {
         exemplo ex = new exemplo();
+        Fibonacci fibonacci = new Fibonacci();
+        do
+        {
+            ex.pergunta();
+        }while(ex.resp != 'n');
 
-        Console.Write("Insira o valor de X: ");
-        ex.x = int.Parse(Console.ReadLine());
-
-        Console.Write("Insira o valor de y: ");
-        ex.y = int.Parse(Console.ReadLine());
-
-        Console.Write("Insira o valor de z: ");
-        ex.z = int.Parse(Console.ReadLine());
-
-        ex.Descobrir_Triangulo();
+        fibonacci.consolelog();
     }
 }
