@@ -1,0 +1,15 @@
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\bin\Debug\net9.0\Funcoes_C-.exe
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\bin\Debug\net9.0\Funcoes_C-.deps.json
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\bin\Debug\net9.0\Funcoes_C-.runtimeconfig.json
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\bin\Debug\net9.0\Funcoes_C-.dll
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\bin\Debug\net9.0\Funcoes_C-.pdb
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\Funcoes_C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\Funcoes_C-.AssemblyInfoInputs.cache
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\Funcoes_C-.AssemblyInfo.cs
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\Funcoes_C-.csproj.CoreCompileInputs.cache
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\Funcoes_C-.sourcelink.json
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\Funcoes_C-.dll
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\refint\Funcoes_C-.dll
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\Funcoes_C-.pdb
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\Funcoes_C-.genruntimeconfig.cache
+C:\Users\1663209\Documents\bernardp\29_04\Funcoes_C-\obj\Debug\net9.0\ref\Funcoes_C-.dll
